@@ -1,0 +1,8 @@
+{
+	"name": "singmyr/slackish",
+	"autoload": {
+		"psr-0": {
+			"Singmyr\\Slackish": "src"
+		}
+	}
+}
